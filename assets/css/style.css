@@ -1,0 +1,113 @@
+/* fonts  */
+
+
+
+/* Navbar section  */
+.top-section{
+    background-color: #FFF9F4;
+}
+.nav-img{
+    width: 292px;
+    height: 40px;
+}
+
+/* Home banner  */
+.home-banner{
+    padding-top: 60px;
+}
+.home-background-pic{
+    width: 420px;
+    height: 420px;
+}
+.nike-home-text{
+    justify-content: center;
+    align-items: center;
+    /* line-height: 80px; */
+}
+.nike-tittle{
+    color: #FA804C;
+    font-weight: 700;
+    font-size: 80px;
+}
+.infinity-tittle{
+    color: #363958;
+    font-weight: 700;
+    font-size: 80px;
+}
+.buy-now-button{
+    background-color: #3B4CE5;
+    color: white;
+    width: 170px;
+    height: 60px;
+    border: none;
+    border-radius: 10px;
+}
+.btn-buy-now{
+    height: 20px;
+    margin-right: 5px;
+}
+
+/* Casual shoes section  */
+.casual-shoes{
+    margin-top: 70px;
+    margin-bottom: 50px;
+}
+.casual-shoe-tittle{
+    font-weight: 700;
+    font-size: 48px;
+    color: #363958;
+    margin: 25px;
+}
+.card-img-background{
+    background-color: #F1F1F1;
+    border-radius: 20px;
+    /* width: 334px;
+    height: 327px; */
+    padding: 30px;
+    margin: 0 auto;
+}
+/* .card-shoe-img{
+    width: 311px;
+    height: 311px; 
+} */
+.card-shoe-title{
+    color: #363958;
+    font-size: 24px;
+    font-weight: 700;
+
+}
+.shoe-price{
+    color: #FA804C;
+    font-size: 36px;
+    font-weight: 900;
+}
+
+/* Information section  */
+.info-main{
+    height: 437px;
+}
+.info-text{
+    display: flex;
+    flex-direction: row;
+}
+.info-large-image img{
+    height: 315px;
+    margin: 0 auto;
+}
+.info-card-bt{
+    background-color: white;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
+}
+.info-card-tittle{
+    font-weight: 700;
+    font-size: 24px;
+    color: #363958;
+}
+.home-icon{
+    height: 78px;
+    width: 82px;
+    margin-right: 25px;
+}
